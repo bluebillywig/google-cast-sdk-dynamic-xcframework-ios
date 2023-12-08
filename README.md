@@ -1,3 +1,3 @@
 # google-cast-sdk-dynamic-xcframework-ios
 
-Framework for casting content to Google Cast devices (dynamically-linked version as xcframework)
+This repo hosts the XCFramework of the dynamic library for Google Cast SDK in Cocoapods which for some unknown reason google haven't done.
